@@ -1,30 +1,5 @@
 # Unity2D-Player-Movement
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/rsaz/Unity2D-Player-Movement">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Unity 2D Player Movement</h3>
-
-  <p align="center">
-    All possible 2d player movements strategies within Unity
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
-
-
+ All possible 2d player movements strategies within Unity
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents

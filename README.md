@@ -45,7 +45,7 @@ You are free to enhance this project sending your contribution, star and fork, o
 
 ### Prerequisites
 
-![Unity Requirements](https://docs.unity3d.com/Manual/system-requirements.html)
+[Unity Requirements](https://docs.unity3d.com/Manual/system-requirements.html)
 
 <!-- CONTRIBUTING -->
 ## Contributing
